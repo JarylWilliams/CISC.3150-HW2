@@ -1,0 +1,198 @@
+Microsoft Windows [Version 10.0.16299.125]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jaryl>cd desktop
+
+C:\Users\Jaryl\Desktop>cd Calendar
+
+C:\Users\Jaryl\Desktop\Calendar>cd src
+
+C:\Users\Jaryl\Desktop\Calendar\src>javac Calendar.java
+
+C:\Users\Jaryl\Desktop\Calendar\src>java Calendar
+Please Enter a year: 2000
+What Day was/is the 1st of Janaury [Su, Mo, Tu, We, Th, Fr, Sa]
+Tu
+         January  2000
+[Su, Mo, Tu, We, Th, Fr, Sa]
+           1   2   3   4   5
+   6   7   8   9  10  11  12
+  13  14  15  16  17  18  19
+  20  21  22  23  24  25  26
+  27  28  29  30  31
+         Feburary  2000
+[Su, Mo, Tu, We, Th, Fr, Sa]
+                       1   2
+   3   4   5   6   7   8   9
+  10  11  12  13  14  15  16
+  17  18  19  20  21  22  23
+  24  25  26  27  28  29
+         March  2000
+[Su, Mo, Tu, We, Th, Fr, Sa]
+                           1
+   2   3   4   5   6   7   8
+   9  10  11  12  13  14  15
+  16  17  18  19  20  21  22
+  23  24  25  26  27  28  29
+  30  31
+         April  2000
+[Su, Mo, Tu, We, Th, Fr, Sa]
+           1   2   3   4   5
+   6   7   8   9  10  11  12
+  13  14  15  16  17  18  19
+  20  21  22  23  24  25  26
+  27  28  29  30
+         May  2000
+[Su, Mo, Tu, We, Th, Fr, Sa]
+                   1   2   3
+   4   5   6   7   8   9  10
+  11  12  13  14  15  16  17
+  18  19  20  21  22  23  24
+  25  26  27  28  29  30  31
+
+         June  2000
+[Su, Mo, Tu, We, Th, Fr, Sa]
+   1   2   3   4   5   6   7
+   8   9  10  11  12  13  14
+  15  16  17  18  19  20  21
+  22  23  24  25  26  27  28
+  29  30
+         July  2000
+[Su, Mo, Tu, We, Th, Fr, Sa]
+           1   2   3   4   5
+   6   7   8   9  10  11  12
+  13  14  15  16  17  18  19
+  20  21  22  23  24  25  26
+  27  28  29  30  31
+         August  2000
+[Su, Mo, Tu, We, Th, Fr, Sa]
+                       1   2
+   3   4   5   6   7   8   9
+  10  11  12  13  14  15  16
+  17  18  19  20  21  22  23
+  24  25  26  27  28  29  30
+  31
+         September  2000
+[Su, Mo, Tu, We, Th, Fr, Sa]
+       1   2   3   4   5   6
+   7   8   9  10  11  12  13
+  14  15  16  17  18  19  20
+  21  22  23  24  25  26  27
+  28  29  30
+         October  2000
+[Su, Mo, Tu, We, Th, Fr, Sa]
+               1   2   3   4
+   5   6   7   8   9  10  11
+  12  13  14  15  16  17  18
+  19  20  21  22  23  24  25
+  26  27  28  29  30  31
+         November  2000
+[Su, Mo, Tu, We, Th, Fr, Sa]
+                           1
+   2   3   4   5   6   7   8
+   9  10  11  12  13  14  15
+  16  17  18  19  20  21  22
+  23  24  25  26  27  28  29
+  30
+         December  2000
+[Su, Mo, Tu, We, Th, Fr, Sa]
+       1   2   3   4   5   6
+   7   8   9  10  11  12  13
+  14  15  16  17  18  19  20
+  21  22  23  24  25  26  27
+  28  29  30  31
+
+C:\Users\Jaryl\Desktop\Calendar\src>java Calendar
+Please Enter a year: 2018
+What Day was/is the 1st of Janaury [Su, Mo, Tu, We, Th, Fr, Sa]
+Mo
+         January  2018
+[Su, Mo, Tu, We, Th, Fr, Sa]
+       1   2   3   4   5   6
+   7   8   9  10  11  12  13
+  14  15  16  17  18  19  20
+  21  22  23  24  25  26  27
+  28  29  30  31
+         Feburary  2018
+[Su, Mo, Tu, We, Th, Fr, Sa]
+                   1   2   3
+   4   5   6   7   8   9  10
+  11  12  13  14  15  16  17
+  18  19  20  21  22  23  24
+  25  26  27  28
+         March  2018
+[Su, Mo, Tu, We, Th, Fr, Sa]
+                   1   2   3
+   4   5   6   7   8   9  10
+  11  12  13  14  15  16  17
+  18  19  20  21  22  23  24
+  25  26  27  28  29  30  31
+
+         April  2018
+[Su, Mo, Tu, We, Th, Fr, Sa]
+   1   2   3   4   5   6   7
+   8   9  10  11  12  13  14
+  15  16  17  18  19  20  21
+  22  23  24  25  26  27  28
+  29  30
+         May  2018
+[Su, Mo, Tu, We, Th, Fr, Sa]
+           1   2   3   4   5
+   6   7   8   9  10  11  12
+  13  14  15  16  17  18  19
+  20  21  22  23  24  25  26
+  27  28  29  30  31
+         June  2018
+[Su, Mo, Tu, We, Th, Fr, Sa]
+                       1   2
+   3   4   5   6   7   8   9
+  10  11  12  13  14  15  16
+  17  18  19  20  21  22  23
+  24  25  26  27  28  29  30
+
+         July  2018
+[Su, Mo, Tu, We, Th, Fr, Sa]
+   1   2   3   4   5   6   7
+   8   9  10  11  12  13  14
+  15  16  17  18  19  20  21
+  22  23  24  25  26  27  28
+  29  30  31
+         August  2018
+[Su, Mo, Tu, We, Th, Fr, Sa]
+               1   2   3   4
+   5   6   7   8   9  10  11
+  12  13  14  15  16  17  18
+  19  20  21  22  23  24  25
+  26  27  28  29  30  31
+         September  2018
+[Su, Mo, Tu, We, Th, Fr, Sa]
+                           1
+   2   3   4   5   6   7   8
+   9  10  11  12  13  14  15
+  16  17  18  19  20  21  22
+  23  24  25  26  27  28  29
+  30
+         October  2018
+[Su, Mo, Tu, We, Th, Fr, Sa]
+       1   2   3   4   5   6
+   7   8   9  10  11  12  13
+  14  15  16  17  18  19  20
+  21  22  23  24  25  26  27
+  28  29  30  31
+         November  2018
+[Su, Mo, Tu, We, Th, Fr, Sa]
+                   1   2   3
+   4   5   6   7   8   9  10
+  11  12  13  14  15  16  17
+  18  19  20  21  22  23  24
+  25  26  27  28  29  30
+         December  2018
+[Su, Mo, Tu, We, Th, Fr, Sa]
+                           1
+   2   3   4   5   6   7   8
+   9  10  11  12  13  14  15
+  16  17  18  19  20  21  22
+  23  24  25  26  27  28  29
+  30  31
+
+C:\Users\Jaryl\Desktop\Calendar\src>

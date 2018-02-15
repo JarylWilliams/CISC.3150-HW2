@@ -1,0 +1,32 @@
+Microsoft Windows [Version 10.0.16299.125]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jaryl>cd desktop
+
+C:\Users\Jaryl\Desktop>cd Pyramid
+
+C:\Users\Jaryl\Desktop\Pyramid>cd src
+
+C:\Users\Jaryl\Desktop\Pyramid\src>javac Pyramid.java
+
+C:\Users\Jaryl\Desktop\Pyramid\src>java Pyramid
+Please enter how tall you will like the pyramid to be:
+2
+  1
+ 121
+
+C:\Users\Jaryl\Desktop\Pyramid\src>java Pyramid
+Please enter how tall you will like the pyramid to be:
+10
+          1
+         121
+        12321
+       1234321
+      123454321
+     12345654321
+    1234567654321
+   123456787654321
+  12345678987654321
+ 12345678910987654321
+
+C:\Users\Jaryl\Desktop\Pyramid\src>

@@ -1,0 +1,27 @@
+Microsoft Windows [Version 10.0.16299.125]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jaryl>cd desktop
+
+C:\Users\Jaryl\Desktop>cd Palindrome
+
+C:\Users\Jaryl\Desktop\Palindrome>cd src
+
+C:\Users\Jaryl\Desktop\Palindrome\src>javac Palindrome.java
+
+C:\Users\Jaryl\Desktop\Palindrome\src>java Palindrome
+Input a word
+dog
+Not a palindrome
+
+C:\Users\Jaryl\Desktop\Palindrome\src>java Palindrome
+Input a word
+anna
+Palindrome!
+
+C:\Users\Jaryl\Desktop\Palindrome\src>java Palindrome
+Input a word
+bob
+Palindrome!
+
+C:\Users\Jaryl\Desktop\Palindrome\src>

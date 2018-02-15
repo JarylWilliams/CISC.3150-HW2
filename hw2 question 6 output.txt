@@ -1,0 +1,52 @@
+Microsoft Windows [Version 10.0.16299.125]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jaryl>cd desktop
+
+C:\Users\Jaryl\Desktop>cd Indivdelimiter
+
+C:\Users\Jaryl\Desktop\Indivdelimiter>cd src
+
+C:\Users\Jaryl\Desktop\Indivdelimiter\src>javac Indivdelimiter.java
+
+C:\Users\Jaryl\Desktop\Indivdelimiter\src>java Indivdelimiter
+Enter words please
+dog
+d
+o
+g
+
+
+
+^Z
+
+C:\Users\Jaryl\Desktop\Indivdelimiter\src>java Indivdelimiter
+Enter words please
+We can use flour to make
+W
+e
+
+c
+a
+n
+
+u
+s
+e
+
+f
+l
+o
+u
+r
+
+t
+o
+
+m
+a
+k
+e
+
+
+

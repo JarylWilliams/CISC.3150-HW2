@@ -1,0 +1,20 @@
+Microsoft Windows [Version 10.0.16299.125]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jaryl>cd desktop
+
+C:\Users\Jaryl\Desktop>cd CommaDelimiter
+
+C:\Users\Jaryl\Desktop\CommaDelimiter>cd src
+
+C:\Users\Jaryl\Desktop\CommaDelimiter\src>javac delimiter.java
+
+C:\Users\Jaryl\Desktop\CommaDelimiter\src>java Delimiter
+Enter words please
+dogs,sheep,house,tom,life,water,
+dogs
+sheep
+house
+tom
+life
+water
